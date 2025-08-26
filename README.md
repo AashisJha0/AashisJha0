@@ -1,280 +1,185 @@
-<div align="center">
-  
-# 🌟 Welcome to Aashis Jha's Digital Universe 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=OracleBrain&fontSize=90&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Ethical%20Hacker&descSize=20&descAlignY=65" width="100%"/>
-
 <p align="center">
     <a href="http://aashisjha.com.np" target="_blank">
-        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="150" height="150" alt="Aashis Profile Animation" style="border-radius: 50%; border: 4px solid #20C20E;">
+        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
     </a>
 </p>
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full-Stack+Developer;🔐+Ethical+Hacker;🤖+AI+%26+ML+Engineer;🎬+Content+Creator;🎨+UI%2FUX+Designer;💻+3%2B+Years+Coding+Experience;🌟+Always+Learning+%26+Growing&font=Fira+Code&center=true&width=600&height=70&color=20C20E&vCenter=true&pause=1000&size=25&multiline=true" />
+  <a href="https://github.com/oraclebrain/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</div>
-
-
-## 🎯 About Me
-
-<div align="center">
-  
-```typescript
-const aashis = {
-    name: "Aashis Jha",
-    title: "Full-Stack Developer & AI Engineer",
-    location: "Nepal 🇳🇵",
-    experience: "3+ years",
-    passions: ["💻 Coding", "🎬 Content Creation", "🔐 Cybersecurity", "🤖 AI/ML"],
-    currentFocus: "Building innovative solutions with cutting-edge technology",
-    funFact: "I debug code faster than I can debug my life! 😄"
-};
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
   <a href="https://github.com/OracleBrain">
-    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=oraclebrain&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&custom_title=⚡+GitHub+Stats" />
-  </a>
-  
-  <a href="https://github.com/oraclebrain?tab=stars">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=2D7DD2&ring=2D7DD2&fire=2D7DD2&currStreakLabel=2D7DD2" />
+    <img src="contributions.svg" />
   </a>
 
-</div>
 
-<div align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=tokyonight&layout=compact&hide_border=true&custom_title=🔥+Most+Used+Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oraclebrain&theme=tokyo-night&bg_color=1a1b27&color=2d7dd2&line=2d7dd2&point=ffffff&area=true&hide_border=true&custom_title=📈+Contribution+Graph"/>
-</div>
+
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=oraclebrain&label=Profile%20Views&color=2d7dd2&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/oraclebrain?label=Followers&style=for-the-badge&color=2d7dd2" alt="GitHub Followers" />
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  <img src="https://profile-counter.glitch.me/oraclebrain/count.svg"/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=shadow_blue&layout=compact"width="48%"/> 
+</p>  
+
+<!---
+<a href="https://github.com/oraclebrain/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oraclebrain&repo=github-readme-stats&theme=shadow_green" />
+</a>
+----------->
+<p align="center">
+  <a href="https://github.com/oraclebrain?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=oraclebrain&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Oraclebrain's github-readme-stats">
+  </a>
+  <a href="https://github.com/oraclebrain?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+  </a>
 </p>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-## 🌐 Connect With Me
-
-<div align="center">
   
-<a href="https://www.buymeacoffee.com/aashisjha" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://aashisjha.com.np" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/aashiszha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://twitter.com/aashiszha" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://instagram.com/aashiszha" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://discord.com/users/aashiszha" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-<a href="https://www.youtube.com/@OracleBrain" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://codepen.io/OracleBrain" target="_blank">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
-</a>
-<a href="https://replit.com/@aashisjha" target="_blank">
-  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
-</a>
-
-<a href="mailto:bewithu.aj@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://fb.com/aashiszha" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cs,cpp" alt="Programming Languages"/>
+<p align="center">
+  🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
+   </p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+<a href="https://discord.com/users/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://aashisjha.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://fb.com/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
+<a href="https://twitter.com/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://replit.com/@aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
+<a href="https://codepen.io/OracleBrain" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://www.youtube.com/@OracleBrain" target="_blank"><img alt="" src="https://img.shields.io/badge/OracleBrain%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
+<a href="mailto:bewithu.aj@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
-### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,bootstrap,tailwind" alt="Web Technologies"/>
-</p>
+<br />
 
-### 📱 Mobile & Desktop
-<p>
-  <img src="https://skillicons.dev/icons?i=android,flutter,dart,qt,dotnet" alt="Mobile & Desktop"/>
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite,azure,heroku,vercel" alt="Databases & Cloud"/>
-</p>
-
-### 🔧 Tools & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux,bash,redux" alt="Tools & Others"/>
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 🚀 Professional Toolkit
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### � Design & Visual Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-### ☁️ Cloud & Hosting
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-### 🔄 DevOps & CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💎 Skills & Interests
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎯 Core Skills
-- 🧩 Problem Solving & Algorithm Design
-- 🎬 Content Creation & Video Editing
-- ✍️ Technical Writing & Blogging
-- 🔍 Research & Continuous Learning
-- 🎨 UI/UX Design & Prototyping
-- 🔐 Cybersecurity & Ethical Hacking
-
-</td>
-<td align="center" width="50%">
-
-### 🎮 Hobbies & Interests
-- � Traveling & Exploring
-- 📚 Learning New Technologies
-- 🎮 Gaming & Interactive Media
-- 🎵 Music & Audio Production
-- 🍽️ Culinary Adventures
-- 🧘‍♂️ Mindfulness & Meditation
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-``` java
-## 💭 Code Philosophy
-
-<div align="center">
-
-```java
-// The Developer's Life Cycle ♻️
-class Developer {
-    public static void main(String[] args) {
-        while (alive) {
-            eat();     // 🍽️ Fuel the brain
-            sleep();   // 😴 Recharge the soul  
-            code();    // 💻 Create magic
-            repeat();  // 🔄 Never stop learning
-        }
-        
-        // Continuous improvement mindset
-        if (isCodeWorking()) {
-            while (codeQuality < PERFECTION) {
-                codeQuality++;
-                learn();
-                innovate();
-            }
-        }
-    }
-}
-// ~ Aashis Jha (OracleBrain) 🧠✨
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Inspirational Quote
-
-<div align="center">
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Do%20what%20your%20heart%20tells%20you%20to%20do.%20You%20are%20not%20bound%20to%20follow%20orders!%20Learn%20what%20you%20want%20to%20learn,%20do%20what%20you%20want%20to%20do.%20Just%20prove%20them%20wrong.%20Never%20forget%20this.&author=Aashis%20Jha"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlignY=65&animation=twinkling&desc=Let's%20build%20something%20amazing%20together!&descSize=16&descAlignY=85" width="100%"/>
+<p align="center"> 
+ 🆃🅴🅲🅷 🆂🆃🅰🅲🅺<br>
+  </p>
 
 ---
 
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
+</p>
+
+<p align="center">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
+  <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
+  <a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
+  <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" /></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png" alt="linux" width="40" height="40" /></a>  
+<a href="https://www.apple.com/macos/sonoma/" target="_blank"><img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macos" width="40" height="40" /></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://www.svgrepo.com/show/342347/visual-studio-code.svg" alt="vscode" width="40" height="40" /></a>
+</p>
+
+
+
+---
 <div align="center">
-  <i>⭐ Star my repositories if you find them interesting!</i>
-  <br>
-  <i>🤝 Let's connect and build something amazing together!</i>
-  <br><br>
-  <b>💖 Thank you for visiting my profile! 💖</b>
+
+#### 🅓🅔🅢🅘🅖🅝/🅥🅘🅢🅤🅐🅛 🅣🅞🅞🅛🅢
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+#### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+
+#### 🅒🅘 / 🅒🅓
+![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
+
+#### 🅓🅐🅣🅐 🅑🅐🅢🅔 / 🅢🅣🅐🅣🅔
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
+
+#### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
 </div>
+
+
+<details>
+  <summary>Skills</summary>
+  
+- Problem Solving
+- Youtuber
+- Blogging
+- Web Content Writing
+- Video Editing
+- Blogger
+- Researching $ Learning
+</details>
+
+<details>
+  <summary>Hobbies</summary>
+🍽️ 🛌 👨🏻‍💻 🔁 
+</br> 
+  🌏 Traveling
+  📚 Learning
+  🎮 Video Games
+  🎧 Listening to Music
+</details>
+
+
+---
+``` java
+// Check if the code is functioning correctly
+if (isCodeWorking) {
+    // Continuously improve the code quality until it reaches perfection
+    while (codeQuality < perfection) {
+        codeQuality++; // Increment code quality
+    }
+}
+
+while(alive) {
+  eat();
+  sleep();
+  code();
+}
+// - Aashis Jha
 ```
 
 <hr />
