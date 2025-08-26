@@ -13,7 +13,7 @@
 </p>
 
 
-  <a href="https://github.com/OracleBrain">
+  <a href="https://github.com/eraashisjha">
     <img src="contributions.svg" />
   </a>
 
