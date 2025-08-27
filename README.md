@@ -65,9 +65,21 @@
 
 <br />
 
-<p align="center"> 
- 🆃🅴🅲🅷 🆂🆃🅰🅲🅺<br>
-  </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <h2 style="font-size: 2.5em; background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 20px 0;">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" style="vertical-align: middle;">
+    🆃🅴🅲🅷 🆂🆃🅰🅲🅺
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" style="vertical-align: middle;">
+  </h2>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+<div align="center" style="margin: 40px 0;">
 
 ---
 
@@ -85,7 +97,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 🛠️ **🅐🅓🅓🅘🅣🅘🅞🅝🅐🅛 🅣🅔🅒🅗🅝🅞🅛🅞🅖🅘🅔🅢**
+#### 🅐🅓🅓🅘🅣🅘🅞🅝🅐🅛 🅣🅔🅒🅗🅝🅞🅛🅞🅖🅘🅔🅢
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -94,7 +106,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
-### 🔧 **🅕🅡🅐🅜🅔🅦🅞🅡🅚🅢 & 🅛🅘🅑🅡🅐🅡🅘🅔🅢**
+#### **🅕🅡🅐🅜🅔🅦🅞🅡🅚🅢 & 🅛🅘🅑🅡🅐🅡🅘🅔🅢**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -103,7 +115,7 @@
   <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby" />
 </p>
 
-### 📱 **🅜🅞🅑🅘🅛🅔 & 🅑🅐🅒🅚🅔🅝🅓**
+#### **🅜🅞🅑🅘🅛🅔 & 🅑🅐🅒🅚🅔🅝🅓**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -112,7 +124,7 @@
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
 </p>
 
-### ☁️ **🅒🅛🅞🅤🅓 & 🅓🅔🅥🅞🅟🅢**
+#### **🅒🅛🅞🅤🅓 & 🅓🅔🅥🅞🅟🅢**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -121,7 +133,7 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-### 💻 **🅞🅟🅔🅡🅐🅣🅘🅝🅖 🅢🅨🅢🅣🅔🅜🅢 & 🅣🅞🅞🅛🅢**
+#### **🅞🅟🅔🅡🅐🅣🅘🅝🅖 🅢🅨🅢🅣🅔🅜🅢 & 🅣🅞🅞🅛🅢**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
