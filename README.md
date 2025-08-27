@@ -54,20 +54,22 @@
 <a href="https://discord.com/users/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://aashisjha.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://fb.com/eraashis" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://twitter.com/eraashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/erashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/eraashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://replit.com/@aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
-<a href="https://codepen.io/eraashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
+<a href="https://codepen.io/oraclebrain" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
 <a href="https://www.youtube.com/@oraclebrain" target="_blank"><img alt="" src="https://img.shields.io/badge/eraashisjha%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:bewithu.aj@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
 <br />
 
-<div align="center">
+<p align="center"> 
+ 🆃🅴🅲🅷 🆂🆃🅰🅲🅺<br>
+  </p>
 
-## 🚀 **TECH STACK** 🚀
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -83,7 +85,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### 🛠️ **Additional Technologies**
+### 🛠️ **🅐🅓🅓🅘🅣🅘🅞🅝🅐🅛 🅣🅔🅒🅗🅝🅞🅛🅞🅖🅘🅔🅢**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -92,7 +94,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
-### 🔧 **Frameworks & Libraries**
+### 🔧 **🅕🅡🅐🅜🅔🅦🅞🅡🅚🅢 & 🅛🅘🅑🅡🅐🅡🅘🅔🅢**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -101,7 +103,7 @@
   <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby" />
 </p>
 
-### 📱 **Mobile & Backend**
+### 📱 **🅜🅞🅑🅘🅛🅔 & 🅑🅐🅒🅚🅔🅝🅓**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -110,7 +112,7 @@
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
 </p>
 
-### ☁️ **Cloud & DevOps**
+### ☁️ **🅒🅛🅞🅤🅓 & 🅓🅔🅥🅞🅟🅢**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -119,7 +121,7 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-### 💻 **Operating Systems & Tools**
+### 💻 **🅞🅟🅔🅡🅐🅣🅘🅝🅖 🅢🅨🅢🅣🅔🅜🅢 & 🅣🅞🅞🅛🅢**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
