@@ -23,7 +23,7 @@
 
 <div align="center">
   <h3 style="color: #00ff00; text-shadow: 0 0 10px #00ff00;">
-    ⚡ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃 ⚡
+     🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃 
   </h3>
   <img src="https://komarev.com/ghpvc/?username=eraashisjha&color=00ff00&style=for-the-badge&label=TARGETS+SCANNED" alt="Profile Views"/>
   <br/>
